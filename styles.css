@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(46, 42, 42);
+}
+.banner{
+    background-color: rgb(17, 148, 93);
+    color: gray;
+}
+.center-text{
+    text-align: center;
+}
+#unique-section-1{
+    border: 1px solid #ddd;
+}
+.custom-font{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 125%;
+}
+.rounded-image{
+    border-radius: 50%;
+    box-shadow: 50px 100px #000000;
+}
+.blue-text{
+    color: #2c7baf;
+}
+#main-header{
+    font-size: 36px;
+}
+.styled-list{
+    list-style-type: circle;
+}
